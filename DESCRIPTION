@@ -1,0 +1,17 @@
+Package: QandA
+Type: Package
+Title: Question and grading formats for learnr
+Version: 0.1.0
+Author: Daniel Kaplan
+Maintainer: Daniel Kaplan <dtkaplan@gmail.com>
+Description: Constructs  to  make it easier to  ask and answer certain  forms of questions in learnr.
+License: What license is it under?
+Depends: 
+    learnr,
+    gradethis
+Encoding: UTF-8
+RoxygenNote: 7.0.2
+Roxygen: list(markdown = TRUE)
+LazyData: true
+Suggests: 
+    testthat (>= 2.1.0)
